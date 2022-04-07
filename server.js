@@ -5,7 +5,7 @@ const cors = require('cors')
 
 app.use(express.json())
 
-const students = ['Jimmy', 'Timothy', 'Jimothy']
+const students = ['Jimmy', 'Timothy', 'Jimothy', 'Max']
 
 app.use(cors())
 
